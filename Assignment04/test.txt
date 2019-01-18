@@ -1,0 +1,1 @@
+Repeat Problem 2 with a new text, one you expect to have different letter distribution than The Count of Monty Cristo. You could use something written centuries earlier (e.g., Shakespeare or an early English translation of the Bible), in a distinctive style or genre (e.g., poetry or a contract), or even in a different language.
